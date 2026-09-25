@@ -40,7 +40,7 @@
 **Wahid Nur Hidayat**  
 `@wahiddev-id`
 
-Backend Developer & pembangun platform **E-Learning UMPAR** — kelas virtual, materi, tugas, kuis, UTS/UAS, absensi, chat & PWA.
+Mahasiswa Informatika & Pengembang Sistem Informasi — mengembangkan website dan berbagai sistem digital untuk mendukung kebutuhan administrasi, akademik, dan layanan di lingkungan UMPAR.
 
 📍 Indonesia  
 📧 [wahidnurhidayaat@gmail.com](mailto:wahidnurhidayaat@gmail.com)  
@@ -50,7 +50,8 @@ Backend Developer & pembangun platform **E-Learning UMPAR** — kelas virtual, m
 
 ### 🧰 Skills
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,bootstrap,html,css,git&theme=light" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css&theme=light" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=tailwind,alpinejs,filament,react,python,java&theme=light" alt="Skills" />
 
 ---
 
@@ -61,7 +62,7 @@ Backend Developer & pembangun platform **E-Learning UMPAR** — kelas virtual, m
 
 <div align="right"><samp><b>Overview</b> · Repository · Projects · Packages</samp></div>
 
-**Tentang saya:** Backend developer asal Indonesia 🇮🇩 yang suka membangun platform e-learning dan sistem informasi dengan Laravel. Selalu penasaran dengan hal baru, gemar merapikan kode, dan terbuka untuk kolaborasi.
+**Tentang saya:** Mahasiswa Informatika & pengembang sistem informasi asal Indonesia 🇮🇩. Membangun website dan sistem digital untuk mendukung administrasi, akademik, dan layanan di lingkungan UMPAR dengan Laravel. Selalu terbuka untuk belajar dan kolaborasi.
 
 #### 🚀 Sedang saya garap:
 
