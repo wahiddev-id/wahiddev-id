@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:60A5FA&height=170&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&fontAlignY=28&desc=Backend%20Developer%20%7C%20Laravel%20%7C%20E-Learning&descAlignY=56&descSize=18" width="100%" />
+  <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/wave-header.svg" width="100%" />
 </div>
 
 <p align="center"><samp>
@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/273231865?v=4&s=220" width="160" />
+  <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/avatar-pulse.svg" width="170" />
   <h1>Wahid Nur Hidayat</h1>
   <b>@wahiddev-id</b> &nbsp;·&nbsp; <i>"ngoding is my love language 💙"</i>
 </div>
@@ -65,6 +65,10 @@ Backend Developer & pembangun platform **E-Learning UMPAR** — kelas virtual, m
 
 **Tentang saya:** Backend developer asal Indonesia 🇮🇩 yang suka membangun platform e-learning dan sistem informasi dengan Laravel. Selalu penasaran dengan hal baru, gemar merapikan kode, dan terbuka untuk kolaborasi.
 
+#### 🚀 Sedang saya garap:
+
+<img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/repos-carousel.svg" alt="Repo Carousel" width="100%" />
+
 #### 📦 Repository:
 
 - 🔗 **[elearning-umpar](https://github.com/wahiddev-id/elearning-umpar)** — 🟦 Laravel · E-learning lengkap (kelas, tugas, kuis, UTS/UAS, absensi, chat, PWA) · 🔒 private
@@ -76,13 +80,13 @@ Backend Developer & pembangun platform **E-Learning UMPAR** — kelas virtual, m
 
 ---
 
-### 📈 Statistik GitHub
+### <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/shimmer-stats.svg" alt="Statistik GitHub" />
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wahiddev-id&theme=nord_bright" alt="Stats" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahiddev-id&theme=nord_bright" alt="Languages" width="49%" />
 </p>
 
-### 🐍 Kontribusi Sepanjang Tahun
+### <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/shimmer-contrib.svg" alt="Kontribusi Sepanjang Tahun" />
 
 Grafik kontribusimu selama setahun, dibuat dari **data kontribusi GitHub asli** dan diperbarui otomatis setiap hari:
 
@@ -92,7 +96,7 @@ Grafik kontribusimu selama setahun, dibuat dari **data kontribusi GitHub asli** 
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### 📉 Riwayat Kontribusi
+### <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/shimmer-history.svg" alt="Riwayat Kontribusi" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahiddev-id&theme=nord_bright" alt="Contribution Details" width="100%" />
 
@@ -113,5 +117,5 @@ _"Jangan pernah berhenti belajar — setiap baris kode membawamu lebih dekat ke 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:1E3A8A&height=130&section=footer" width="100%" />
+  <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/wave-footer.svg" width="100%" />
 </div>

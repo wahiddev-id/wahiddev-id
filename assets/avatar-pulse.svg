@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220">
+  <circle cx="110" cy="110" r="90" fill="#DBEAFE"/>
+  <defs>
+    <clipPath id="c"><circle cx="110" cy="110" r="84"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <image href="data:image/png;base64,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" x="28" y="28" width="164" height="164" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <circle cx="110" cy="110" r="88" fill="none" stroke="#93C5FD" stroke-width="2" stroke-dasharray="8 12">
+    <animateTransform attributeName="transform" type="rotate" from="0 110 110" to="360 110 110" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="110" cy="110" r="84" fill="none" stroke="#2563EB" stroke-width="2">
+    <animate attributeName="r" values="84;100;84" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.9;0.1;0.9" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="110" cy="110" r="84" fill="none" stroke="#60A5FA" stroke-width="1.5">
+    <animate attributeName="r" values="84;98;84" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.7;0.05;0.7" dur="2.4s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>
