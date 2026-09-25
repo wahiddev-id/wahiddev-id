@@ -60,11 +60,7 @@ Mahasiswa Informatika & Pengembang Sistem Informasi — mengembangkan website da
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css&theme=light" alt="Skills" />
 <img src="https://skillicons.dev/icons?i=tailwind,alpinejs,filament,react,python,java&theme=light" alt="Skills" />
 
-#### 📦 Repository:
 
-- 🔗 **[elearning-umpar](https://github.com/wahiddev-id/elearning-umpar)** — 🟦 Laravel · E-learning lengkap (kelas, tugas, kuis, UTS/UAS, absensi, chat, PWA) · 🔒 private
-- 🔗 **[lab-umpar](https://github.com/wahiddev-id/lab-umpar)** — 🟧 Blade · Sistem informasi laboratorium UMPAR · 🔓 public
-- 🔗 **[wahiddev-id](https://github.com/wahiddev-id/wahiddev-id)** — 📄 GitHub Profile README · 🔓 public
 
 </td>
 </tr>
