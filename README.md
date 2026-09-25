@@ -43,8 +43,8 @@
 Backend Developer & pembangun platform **E-Learning UMPAR** — kelas virtual, materi, tugas, kuis, UTS/UAS, absensi, chat & PWA.
 
 📍 Indonesia  
-📧 [wahidnurhidaayat@gmail.com](mailto:wahidnurhidaayat@gmail.com)  
-🌐 [elearning-umpar.my.id](https://elearning-umpar.my.id)
+📧 [wahidnurhidayaat@gmail.com](mailto:wahidnurhidayaat@gmail.com)  
+🌐 [wahid.store](https://wahid.store)
 
 [![Follow](https://img.shields.io/badge/FOLLOW-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahiddev-id)
 
