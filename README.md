@@ -8,12 +8,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/avatar-pulse.svg" width="170" />
   <h1>Wahid Nur Hidayat</h1>
-  <b>@wahiddev-id</b> &nbsp;·&nbsp; <i>"ngoding is my love language 💙"</i>
+  <b>@wahiddev-id</b> &nbsp;·&nbsp; <i>"Belajar, mencoba, dan tidak menyerah."</i>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=640&lines=Backend+Developer+%E2%9A%A1;Laravel+%2B+MySQL+Enthusiast+%F0%9F%A7%A9;Building+E-Learning+Platforms+%F0%9F%8E%93;PWA+%2B+Push+Notification+Lover+%F0%9F%93%B1;Open+for+Collaboration+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=640&lines=%F0%9F%8C%A8%EF%B8%8F+Mahasiswa+Informatika;Pengembang+Web;Pengembang+Sistem+Informasi;Laravel+%26+PHP)](https://git.io/typing-svg)
 
 </div>
 
