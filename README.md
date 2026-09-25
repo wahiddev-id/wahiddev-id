@@ -78,8 +78,9 @@ Backend Developer & pembangun platform **E-Learning UMPAR** — kelas virtual, m
 
 ### 📈 Statistik GitHub
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wahiddev-id&theme=nord_bright" alt="Stats" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahiddev-id&theme=nord_bright" alt="Languages" width="49%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wahiddev-id&theme=nord_bright" alt="Stats" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahiddev-id&theme=nord_bright" alt="Languages" width="49%" />
+</p>
 
 ### 🌤️ Kontribusi Tahunan
 
