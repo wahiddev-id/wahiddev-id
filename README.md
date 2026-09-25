@@ -3,7 +3,7 @@
 </div>
 
 <p align="center"><samp>
-  🐙 <b>Explore</b> · Features · Business · Marketplace &nbsp;|&nbsp; 🔍 <code>Search or jump to any repository...</code> &nbsp;|&nbsp; 🔔 🌙
+  🐙 <b>Explore</b> · Features · Business · Marketplace &nbsp;|&nbsp; 🔍 <code>Search or jump to...</code> &nbsp;|&nbsp; 🔔 🌙
 </samp></p>
 
 ---
@@ -54,10 +54,6 @@ Backend Developer & pembangun platform **E-Learning UMPAR** — kelas virtual, m
 
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,bootstrap,html,css,git&theme=light" alt="Skills" />
 
-- 🧠 Sedang belajar: Laravel ecosystem & API design
-- 💬 Tanya saya: PHP, Laravel, MySQL
-- 🎯 Target: platform edukasi ber-skala luas
-
 ---
 
 🔒 Log out
@@ -67,17 +63,23 @@ Backend Developer & pembangun platform **E-Learning UMPAR** — kelas virtual, m
 
 <div align="right"><samp><b>Overview</b> · Repository · Projects · Packages</samp></div>
 
+**Tentang saya:** Backend developer asal Indonesia 🇮🇩 yang suka membangun platform e-learning dan sistem informasi dengan Laravel. Selalu penasaran dengan hal baru, gemar merapikan kode, dan terbuka untuk kolaborasi.
+
+#### 📦 Repository:
+
+- 🔗 **[elearning-umpar](https://github.com/wahiddev-id/elearning-umpar)** — 🟦 Laravel · E-learning lengkap (kelas, tugas, kuis, UTS/UAS, absensi, chat, PWA) · 🔒 private
+- 🔗 **[lab-umpar](https://github.com/wahiddev-id/lab-umpar)** — 🟧 Blade · Sistem informasi laboratorium UMPAR · 🔓 public
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 📈 Statistik GitHub
 
-| | |
-|---|---|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wahiddev-id&theme=nord_bright" alt="Stats" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahiddev-id&theme=nord_bright" alt="Languages" /> |
-
-### 📦 Pinned Repository
-
-| | |
-|---|---|
-| **🔗 [elearning-umpar](https://github.com/wahiddev-id/elearning-umpar)**<br>E-learning UMPAR — kelas virtual, materi, tugas, kuis, UTS/UAS, absensi, notifikasi & PWA.<br><br>🟦 Laravel `·` ![stars](https://img.shields.io/github/stars/wahiddev-id/elearning-umpar) `·` ![forks](https://img.shields.io/github/forks/wahiddev-id/elearning-umpar) `·` 🔒 private | **🔗 [lab-umpar](https://github.com/wahiddev-id/lab-umpar)**<br>Sistem informasi laboratorium UMPAR berbasis Laravel Blade.<br><br>🟧 Blade `·` ![stars](https://img.shields.io/github/stars/wahiddev-id/lab-umpar) `·` ![forks](https://img.shields.io/github/forks/wahiddev-id/lab-umpar) `·` 🔓 public |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wahiddev-id&theme=nord_bright" alt="Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahiddev-id&theme=nord_bright" alt="Languages" width="49%" />
 
 ### 🌤️ Kontribusi Tahunan
 
@@ -90,10 +92,6 @@ Backend Developer & pembangun platform **E-Learning UMPAR** — kelas virtual, m
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=wahiddev-id&background=ffffff&border=E2E8F0&stroke=CBD5E1&ring=2563EB&fire=1D4ED8&currStreakNum=1E3A8A&sideNums=1E3A8A&currStreakLabel=1D4ED8&sideLabels=64748B&dates=64748B" alt="GitHub Streak" />
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
