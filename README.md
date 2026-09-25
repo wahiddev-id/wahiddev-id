@@ -82,9 +82,15 @@ Backend Developer & pembangun platform **E-Learning UMPAR** — kelas virtual, m
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wahiddev-id&theme=nord_bright" alt="Stats" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wahiddev-id&theme=nord_bright" alt="Languages" width="49%" />
 </p>
 
-### 🌤️ Kontribusi Tahunan
+### 🐍 Kontribusi Sepanjang Tahun
 
-<img src="https://ghchart.rshah.org/2563EB/wahiddev-id" alt="Contribution Heatmap" width="100%" />
+Grafik kontribusimu selama setahun, dibuat dari **data kontribusi GitHub asli** dan diperbarui otomatis setiap hari:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ### 📉 Riwayat Kontribusi
 
