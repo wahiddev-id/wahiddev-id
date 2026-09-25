@@ -19,10 +19,11 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-wahidnurhidaayat%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahidnurhidaayat@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-wahidnurhidayaat%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahidnurhidayaat@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-wahiddev--id-1E3A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahiddev-id)
-[![Website](https://img.shields.io/badge/Website-elearning--umpar-38BDF8?style=for-the-badge&logo=leanpub&logoColor=white)](https://elearning-umpar.my.id)
-[![Ig](https://img.shields.io/badge/Instagram-wahiddev--id-E11D8A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wahiddev-id)
+
+[![Website](https://img.shields.io/badge/Website-wahid.store-38BDF8?style=for-the-badge&logo=leanpub&logoColor=white)](https://wahid.store)
+[![Ig](https://img.shields.io/badge/Instagram-_wahidnh-E11D8A?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_wahidnh)
 
 </div>
 
