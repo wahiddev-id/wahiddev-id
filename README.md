@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/banner-top.svg" width="100%" />
 </div>
 
-<p align="center"><samp>
-  🐙 <b>Explore</b> · Features · Business · Marketplace &nbsp;|&nbsp; 🔍 <code>Search or jump to...</code> &nbsp;|&nbsp; 🔔 🌙
-</samp></p>
 
 ---
 
