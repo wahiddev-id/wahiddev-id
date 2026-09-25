@@ -48,15 +48,6 @@ Mahasiswa Informatika & Pengembang Sistem Informasi — mengembangkan website da
 
 [![Follow](https://img.shields.io/badge/FOLLOW-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahiddev-id)
 
-### 🧰 Skills
-
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css&theme=light" alt="Skills" />
-<img src="https://skillicons.dev/icons?i=tailwind,alpinejs,filament,react,python,java&theme=light" alt="Skills" />
-
----
-
-🔒 Log out
-
 </td>
 <td valign="top">
 
@@ -64,9 +55,10 @@ Mahasiswa Informatika & Pengembang Sistem Informasi — mengembangkan website da
 
 **Tentang saya:** Mahasiswa Informatika & pengembang sistem informasi asal Indonesia 🇮🇩 yang senang mengubah ide dan kebutuhan menjadi solusi digital. Terus belajar, mencoba hal baru, dan berkembang melalui setiap proyek yang dikerjakan.
 
-#### 🚀 Sedang saya garap:
+### 🧰 Skills
 
-<img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/repos-carousel.svg" alt="Repo Carousel" width="100%" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,html,css&theme=light" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=tailwind,alpinejs,filament,react,python,java&theme=light" alt="Skills" />
 
 #### 📦 Repository:
 
