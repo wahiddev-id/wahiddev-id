@@ -62,7 +62,7 @@ Mahasiswa Informatika & Pengembang Sistem Informasi — mengembangkan website da
 
 <div align="right"><samp><b>Overview</b> · Repository · Projects · Packages</samp></div>
 
-**Tentang saya:** Mahasiswa Informatika & pengembang sistem informasi asal Indonesia 🇮🇩. Membangun website dan sistem digital untuk mendukung administrasi, akademik, dan layanan di lingkungan UMPAR dengan Laravel. Selalu terbuka untuk belajar dan kolaborasi.
+**Tentang saya:** Mahasiswa Informatika & pengembang sistem informasi asal Indonesia 🇮🇩 yang senang mengubah ide dan kebutuhan menjadi solusi digital. Terus belajar, mencoba hal baru, dan berkembang melalui setiap proyek yang dikerjakan.
 
 #### 🚀 Sedang saya garap:
 
@@ -72,6 +72,7 @@ Mahasiswa Informatika & Pengembang Sistem Informasi — mengembangkan website da
 
 - 🔗 **[elearning-umpar](https://github.com/wahiddev-id/elearning-umpar)** — 🟦 Laravel · E-learning lengkap (kelas, tugas, kuis, UTS/UAS, absensi, chat, PWA) · 🔒 private
 - 🔗 **[lab-umpar](https://github.com/wahiddev-id/lab-umpar)** — 🟧 Blade · Sistem informasi laboratorium UMPAR · 🔓 public
+- 🔗 **[wahiddev-id](https://github.com/wahiddev-id/wahiddev-id)** — 📄 GitHub Profile README · 🔓 public
 
 </td>
 </tr>

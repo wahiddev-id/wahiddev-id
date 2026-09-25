@@ -4,12 +4,18 @@
     <rect x="24" y="18" width="10" height="64" rx="5" fill="#2563EB"/>
     <text x="52" y="46" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#1E3A8A">elearning-umpar</text>
     <text x="52" y="72" font-family="Segoe UI, sans-serif" font-size="16" fill="#475569">E-Learning UMPAR · PHP · Laravel</text>
-    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.1;0.42;0.5;1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.08;0.34;0.4;1" dur="9s" repeatCount="indefinite"/>
   </g>
   <g>
     <rect x="24" y="18" width="10" height="64" rx="5" fill="#38BDF8"/>
     <text x="52" y="46" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#1E3A8A">lab-umpar</text>
     <text x="52" y="72" font-family="Segoe UI, sans-serif" font-size="16" fill="#475569">Sistem Informasi Laboratorium UMPAR · Blade</text>
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.5;0.58;0.9;1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4;0.46;0.72;1" dur="9s" repeatCount="indefinite"/>
+  </g>
+  <g>
+    <rect x="24" y="18" width="10" height="64" rx="5" fill="#60A5FA"/>
+    <text x="52" y="46" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#1E3A8A">wahiddev-id</text>
+    <text x="52" y="72" font-family="Segoe UI, sans-serif" font-size="16" fill="#475569">GitHub Profile · README Profile</text>
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.72;0.78;1;1" dur="9s" repeatCount="indefinite"/>
   </g>
 </svg>
