@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/clean-top.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/banner-top.svg" width="100%" />
 </div>
 
 <p align="center"><samp>
