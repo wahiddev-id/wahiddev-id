@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/wave-header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/clean-top.svg" width="100%" />
 </div>
 
 <p align="center"><samp>
@@ -117,5 +117,5 @@ _"Jangan pernah berhenti belajar — setiap baris kode membawamu lebih dekat ke 
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/wave-footer.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/wahiddev-id/wahiddev-id/main/assets/clean-bottom.svg" width="100%" />
 </div>
